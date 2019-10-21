@@ -8,5 +8,9 @@ while True:
         print('プログラムを終了します')
         break
     # -- ここに処理を追加してみよう --
+    # -- ここに処理を追加してみよう --
+    elif input_num == 10:
+        print('バーカ')
+        break
     else:
         print('該当するコマンドがありません')
